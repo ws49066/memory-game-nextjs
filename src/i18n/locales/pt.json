@@ -1,0 +1,105 @@
+{
+  "menu": {
+    "title": "Jogo da Memória",
+    "subtitle": "Desafie sua mente",
+    "chooseMode": "Escolha seu modo de jogo e prove suas habilidades!",
+    "features": {
+      "pairs": "16 pares",
+      "timeChallenge": "Desafio de tempo",
+      "history": "Histórico de partidas"
+    },
+    "modes": {
+      "challenge": {
+        "title": "Modo Desafio",
+        "description": "Solo - Encontre todos os pares!"
+      },
+      "duel": {
+        "title": "Modo Duelo",
+        "description": "2 Jogadores - Quem encontra mais?"
+      }
+    },
+    "historyButton": "Ver Histórico",
+    "languageSelector": "Selecionar Idioma"
+  },
+  "game": {
+    "mode": {
+      "challenge": "🎯 Modo Desafio",
+      "duel": "⚔️ Modo Duelo"
+    },
+    "timer": "⏱️",
+    "remainingPairs": "pares restantes",
+    "backButton": "← Voltar",
+    "player1": "Jogador 1",
+    "player2": "Jogador 2",
+    "pairs": "pares",
+    "yourTurn": "Sua vez!"
+  },
+  "gameOver": {
+    "challenge": {
+      "title": "Parabéns!",
+      "message": "Você completou o desafio!",
+      "stats": {
+        "pairs": "Pares",
+        "time": "Tempo",
+        "completed": "Concluído"
+      }
+    },
+    "duel": {
+      "title": "Fim da Partida!",
+      "player1Wins": "🏆 Jogador 1 venceu!",
+      "player2Wins": "🏆 Jogador 2 venceu!",
+      "draw": "🤝 Empate!",
+      "stats": {
+        "player1": "Jogador 1",
+        "player2": "Jogador 2",
+        "time": "Tempo"
+      }
+    },
+    "buttons": {
+      "playAgain": "🎮 Jogar Novamente",
+      "backToMenu": "← Voltar ao Menu"
+    }
+  },
+  "history": {
+    "title": "📊 Histórico de Partidas",
+    "backButton": "← Voltar ao Menu",
+    "empty": {
+      "icon": "📝",
+      "title": "Nenhuma partida registrada",
+      "message": "Jogue algumas partidas para ver seu histórico aqui!"
+    },
+    "stats": {
+      "totalGames": "Total de Partidas",
+      "challengeMode": "Modo Desafio",
+      "duelMode": "Modo Duelo",
+      "totalTime": "Tempo Total",
+      "player1Wins": "Vitórias J1 🔵",
+      "player2Wins": "Vitórias J2 🔴",
+      "draws": "Empates"
+    },
+    "table": {
+      "date": "Data",
+      "mode": "Modo",
+      "time": "Tempo",
+      "result": "Resultado",
+      "remove": "Remover"
+    },
+    "results": {
+      "completed": "Concluído ✓",
+      "player1Wins": "Jogador 1 venceu!",
+      "player2Wins": "Jogador 2 venceu!",
+      "draw": "Empate!"
+    },
+    "modes": {
+      "challenge": "Modo Desafio",
+      "duel": "Modo Duelo"
+    },
+    "clearAll": "🗑️ Limpar Histórico",
+    "clearAllConfirm": "Tem certeza que deseja limpar todo o histórico?"
+  },
+  "languages": {
+    "en": "Inglês",
+    "pt": "Português",
+    "it": "Italiano"
+  }
+}

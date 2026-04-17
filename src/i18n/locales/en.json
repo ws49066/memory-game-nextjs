@@ -1,0 +1,105 @@
+{
+  "menu": {
+    "title": "Memory Game",
+    "subtitle": "Challenge your mind",
+    "chooseMode": "Choose your game mode and prove your skills!",
+    "features": {
+      "pairs": "16 pairs",
+      "timeChallenge": "Time challenge",
+      "history": "Match history"
+    },
+    "modes": {
+      "challenge": {
+        "title": "Challenge Mode",
+        "description": "Solo - Find all pairs!"
+      },
+      "duel": {
+        "title": "Duel Mode",
+        "description": "2 Players - Who finds more?"
+      }
+    },
+    "historyButton": "View History",
+    "languageSelector": "Select Language"
+  },
+  "game": {
+    "mode": {
+      "challenge": "🎯 Challenge Mode",
+      "duel": "⚔️ Duel Mode"
+    },
+    "timer": "⏱️",
+    "remainingPairs": "remaining pairs",
+    "backButton": "← Back",
+    "player1": "Player 1",
+    "player2": "Player 2",
+    "pairs": "pairs",
+    "yourTurn": "Your turn!"
+  },
+  "gameOver": {
+    "challenge": {
+      "title": "Congratulations!",
+      "message": "You completed the challenge!",
+      "stats": {
+        "pairs": "Pairs",
+        "time": "Time",
+        "completed": "Completed"
+      }
+    },
+    "duel": {
+      "title": "Match Over!",
+      "player1Wins": "🏆 Player 1 wins!",
+      "player2Wins": "🏆 Player 2 wins!",
+      "draw": "🤝 It's a draw!",
+      "stats": {
+        "player1": "Player 1",
+        "player2": "Player 2",
+        "time": "Time"
+      }
+    },
+    "buttons": {
+      "playAgain": "🎮 Play Again",
+      "backToMenu": "← Back to Menu"
+    }
+  },
+  "history": {
+    "title": "📊 Match History",
+    "backButton": "← Back to Menu",
+    "empty": {
+      "icon": "📝",
+      "title": "No matches recorded",
+      "message": "Play some games to see your history here!"
+    },
+    "stats": {
+      "totalGames": "Total Games",
+      "challengeMode": "Challenge Mode",
+      "duelMode": "Duel Mode",
+      "totalTime": "Total Time",
+      "player1Wins": "Player 1 Wins",
+      "player2Wins": "Player 2 Wins",
+      "draws": "Draws"
+    },
+    "table": {
+      "date": "Date",
+      "mode": "Mode",
+      "time": "Time",
+      "result": "Result",
+      "remove": "Remove"
+    },
+    "results": {
+      "completed": "Completed ✓",
+      "player1Wins": "Player 1 wins!",
+      "player2Wins": "Player 2 wins!",
+      "draw": "Draw!"
+    },
+    "modes": {
+      "challenge": "Challenge Mode",
+      "duel": "Duel Mode"
+    },
+    "clearAll": "🗑️ Clear History",
+    "clearAllConfirm": "Are you sure you want to clear all history?"
+  },
+  "languages": {
+    "en": "English",
+    "pt": "Portuguese",
+    "it": "Italian"
+  }
+}

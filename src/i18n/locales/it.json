@@ -1,0 +1,105 @@
+{
+  "menu": {
+    "title": "Gioco di Memoria",
+    "subtitle": "Sfida la tua mente",
+    "chooseMode": "Scegli la tua modalità di gioco e dimostra le tue abilità!",
+    "features": {
+      "pairs": "16 coppie",
+      "timeChallenge": "Sfida a tempo",
+      "history": "Cronologia partite"
+    },
+    "modes": {
+      "challenge": {
+        "title": "Modalità Sfida",
+        "description": "Solo - Trova tutte le coppie!"
+      },
+      "duel": {
+        "title": "Modalità Duello",
+        "description": "2 Giocatori - Chi ne trova di più?"
+      }
+    },
+    "historyButton": "Vedi Cronologia",
+    "languageSelector": "Seleziona Lingua"
+  },
+  "game": {
+    "mode": {
+      "challenge": "🎯 Modalità Sfida",
+      "duel": "⚔️ Modalità Duello"
+    },
+    "timer": "⏱️",
+    "remainingPairs": "coppie rimanenti",
+    "backButton": "← Indietro",
+    "player1": "Giocatore 1",
+    "player2": "Giocatore 2",
+    "pairs": "coppie",
+    "yourTurn": "Tuo turno!"
+  },
+  "gameOver": {
+    "challenge": {
+      "title": "Congratulazioni!",
+      "message": "Hai completato la sfida!",
+      "stats": {
+        "pairs": "Coppie",
+        "time": "Tempo",
+        "completed": "Completato"
+      }
+    },
+    "duel": {
+      "title": "Fine Partita!",
+      "player1Wins": "🏆 Giocatore 1 vince!",
+      "player2Wins": "🏆 Giocatore 2 vince!",
+      "draw": "🤝 Pareggio!",
+      "stats": {
+        "player1": "Giocatore 1",
+        "player2": "Giocatore 2",
+        "time": "Tempo"
+      }
+    },
+    "buttons": {
+      "playAgain": "🎮 Gioca Ancora",
+      "backToMenu": "← Torna al Menu"
+    }
+  },
+  "history": {
+    "title": "📊 Cronologia Partite",
+    "backButton": "← Torna al Menu",
+    "empty": {
+      "icon": "📝",
+      "title": "Nessuna partita registrata",
+      "message": "Gioca qualche partita per vedere la tua cronologia qui!"
+    },
+    "stats": {
+      "totalGames": "Partite Totali",
+      "challengeMode": "Modalità Sfida",
+      "duelMode": "Modalità Duello",
+      "totalTime": "Tempo Totale",
+      "player1Wins": "Vittorie G1 🔵",
+      "player2Wins": "Vittorie G2 🔴",
+      "draws": "Pareggi"
+    },
+    "table": {
+      "date": "Data",
+      "mode": "Modalità",
+      "time": "Tempo",
+      "result": "Risultato",
+      "remove": "Rimuovi"
+    },
+    "results": {
+      "completed": "Completato ✓",
+      "player1Wins": "Giocatore 1 vince!",
+      "player2Wins": "Giocatore 2 vince!",
+      "draw": "Pareggio!"
+    },
+    "modes": {
+      "challenge": "Modalità Sfida",
+      "duel": "Modalità Duello"
+    },
+    "clearAll": "🗑️ Cancella Cronologia",
+    "clearAllConfirm": "Sei sicuro di voler cancellare tutta la cronologia?"
+  },
+  "languages": {
+    "en": "Inglese",
+    "pt": "Portoghese",
+    "it": "Italiano"
+  }
+}
