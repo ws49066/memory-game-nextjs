@@ -25,7 +25,7 @@ export default function CardMemory(props: ICardMemory) {
         }} selected={selected} matchedBy={props.matchedBy}>
             <CardBack>
                 <Image
-                    src={`/images/Image=${imageName}.svg`}
+                    src={`${process.env.NEXT_PUBLIC_BASE_PATH ?? ''}/images/Image=${imageName}.svg`}
                     alt={imageName}
                     width={80}
                     height={80}
